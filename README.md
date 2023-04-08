@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julek-Git
 - 👀 I’m interested in programming and books.
-- 🌱 I’m currently learning python, c++, c#.
+- 🌱 I’m currently learning Unity and React .
 - 💞️ I’m looking to collaborate on me. :P
 - 📫 How to reach me by mail (julando810@gmail.com).
 
