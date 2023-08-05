@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julek-Git
 - 👀 I’m interested in programming and books.
-- 🌱 I’m currently learning React .
+- 🌱 I’m currently learning Vue.js.
 - 💞️ I’m looking to collaborate on me. :P
 - 📫 How to reach me by mail (julek@sobczuk.pl).
 
