@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Julek-Git and I have 13 years old.
+- 👋 Hi, I’m Julek and I have 13 years old.
 - 👀 I’m interested in programming and books.
 - 🌱 I’m currently learning Vue.js and C++.
 - 💞️ I’m looking to collaborate on me. :P
