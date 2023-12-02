@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julek and I have 13 years old.
 - 🌍 Country: Poland
 - 👀 I’m interested in programming and books.
-- 🌱 I’m currently learning Vue.js and C++.
+- 🌱 I’m currently learning `C++`.
 - 💞️ I’m looking to collaborate on me. :P
 - 📫 How to reach me by mail (julek@sobczuk.pl).
 
