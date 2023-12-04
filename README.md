@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming and books.
 - 🌱 I’m currently learning `C++`.
 - 💞️ I’m looking to collaborate on me. :P
-- 📫 How to reach me by mail (julek@sobczuk.pl).
+- 📫 How to reach me by mail (julando810@gmail.com).
 
 
 What I know:
