@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Julek and I have 13 years old.
+- 👋 Hi, I’m Julek and I am 13 years old.
 - 🌍 Country: Poland
-- 👀 I’m interested in programming and books.
-- 🌱 I’m currently learning `C++`.
+- 👀 I’m interested in programming and I love reading books.
+- 🌱 I’m currently learning `C++`, but I want to learn `Go`.
 - 💞️ I’m looking to collaborate on me. :P
 - 📫 How to reach me by mail (julando810@gmail.com).
 
